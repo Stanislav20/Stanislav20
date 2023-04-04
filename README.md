@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>🔭I’m currently working on my IT projects<br>⚡I want to develop as a good and in-demand Frontend developer<br>I like hiking, basketball, listening to music and reading books, learning to play the guitar<br>
+<br>🔭I’m currently working on my IT projects<br>⚡I want to develop as a good and in-demand Frontend developer<br>🏔I like hiking, basketball🏀, listening to music🎧 and reading books📚, learning to play the guitar🎸<br>
 
 
 # 💻 Tech Stack:
